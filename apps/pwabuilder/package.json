@@ -46,7 +46,7 @@
     "lit": "^2.2.4",
     "lodash-es": "^4.17.21",
     "not": "^0.1.0",
-    "npm-check-updates": "^13.0.3"
+    "npm-check-updates": "^16.7.4"
   },
   "devDependencies": {
     "@istanbuljs/nyc-config-typescript": "^1.0.2",
